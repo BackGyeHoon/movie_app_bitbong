@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/movie_app_bitbong/precache-manifest.79a876b5aac044bf10b63be4d54f3a30.js"
+  "/movie_app_bitbong/precache-manifest.6701556da7fcc7f57e80c96e9918a912.js"
 );
 
 self.addEventListener('message', (event) => {
